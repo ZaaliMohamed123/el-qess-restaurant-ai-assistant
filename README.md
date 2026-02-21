@@ -2,7 +2,7 @@
 
 ## 1. Name
 
-**El-Qess Restaurant AI Assistant** (مساعد مطعم القصّ الذكي) 
+**El-Qess Restaurant AI Assistant** 
 
 ---
 
